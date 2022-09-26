@@ -3,3 +3,5 @@ white
 yellow
 pink
 red
+dark red
+dark yellow
