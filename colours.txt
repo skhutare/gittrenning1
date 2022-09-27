@@ -5,3 +5,4 @@ pink
 red
 dark red
 dark yellow
+hgu
